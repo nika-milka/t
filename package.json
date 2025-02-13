@@ -1,0 +1,11 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nika-milka/t.git",
+  "author": "<veronika> <<verona250305@gmail.com>>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^19.0.0"
+  }
+}
